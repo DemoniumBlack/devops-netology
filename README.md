@@ -1,3 +1,5 @@
+# Автор: Федорчук Дмитрий Сергеевич DEVOPS-33
+
 # devops-netology
 Репозиторий DevOps Netology
 
