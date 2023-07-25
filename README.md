@@ -28,4 +28,9 @@
 Файлы локальных ограничений Terraform override.tf override.tf.json *_override.tf *_override.tf.json - файлы verride.tf override.tf.json, любые файл содержащие в имени _override.tf.json и _override.tf.json.
 
 Конфигурационные файлы CLI Terraform .terraformrc terraform.rc - скрытый каталог либо файл .terraformrc и файл terraform.rc
+<<<<<<< HEAD
 >>>>>>> 67ec922 (Исправил описание файла gitignore для Terraform)
+=======
+
+Добавляю новую строчку.
+>>>>>>> fe23148 (Добавил строчку)
